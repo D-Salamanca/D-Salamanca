@@ -1,31 +1,31 @@
 # 👩‍💻 Danna Salamanca
 
 **Business Analytics & Data Engineering Student**  
-Apasionada por transformar datos en decisiones estratégicas y procesos eficientes.  
-Especializada en **visualización de datos, análisis estadístico y optimización operativa**.
+Driven by a passion for transforming data into strategic decisions and efficient processes.  
+Specialized in **data visualization, statistical analysis, and operational optimization**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://www.linkedin.com/in/danna-salamanca-907050259/)
 [![Email](https://img.shields.io/badge/Email-d.salamanca0314@gmail.com-D14836?logo=gmail&style=flat)](mailto:d.salamanca0314@gmail.com)
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy estudiante de **Ingeniería de Datos e Inteligencia Artificial** en la Universidad Autónoma de Occidente, con experiencia en analítica de negocios, **Power BI**, **Python** y **SQL**. Me enfoco en generar valor a través del análisis inteligente de datos, automatizando procesos y potenciando decisiones estratégicas.
+I’m a **Data Engineering & AI student** at Universidad Autónoma de Occidente, passionate about turning raw data into meaningful insights and business value. With hands-on experience in **Python, SQL, Power BI**, and **process analysis**, I focus on automation and strategic reporting.
 
-🔹 Aumenté el recaudo de cartera del 15% al 69%  
-🔹 Reduje errores logísticos en un 93% mediante control de procesos  
-🔹 Impulsé un incremento del 18% en ventas con rediseño de estrategia comercial  
-🔹 Automatización de reportes en Power BI reduciendo 50% de tiempos analíticos
+🔹 Boosted debt collection efficiency from 15% to 69%  
+🔹 Reduced warehouse logistic errors by 93% through process monitoring  
+🔹 Achieved an 18% quarterly sales increase through data-driven strategies  
+🔹 Automated KPI dashboards, cutting analysis time by 50%
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tech Stack & Tools
 
 - Python | R | SQL | PostgreSQL  
 - Power BI | Looker Studio  
-- Estadística aplicada | Machine Learning  
-- Visualización | Reportes ejecutivos
+- Applied Statistics | Machine Learning  
+- Business Reporting | Insightful Dashboards
 
 ---
 
@@ -39,32 +39,33 @@ Soy estudiante de **Ingeniería de Datos e Inteligencia Artificial** en la Unive
 
 ---
 
-### 📈 Actualmente aprendiendo...
+### 📈 Currently Learning
 
-- Modelos de IA generativa
-- Procesamiento de grandes volúmenes de datos (Big Data)
-- Desarrollo de dashboards empresariales impactantes
+- Generative AI & Prompt Engineering  
+- Big Data Processing  
+- Impactful BI Dashboards for business insights
 
 ---
 
-### 📚 Certificaciones
+### 📚 Certifications
 
-- 🧠 IA Generativa – MIT (Banco Santander)  
+- 🧠 Generative AI – MIT (Santander)  
 - 📊 Business Intelligence Foundation – CertiProf  
-- 🏗️ Gestión de Proyectos y Metodología Agile – Banco Santander  
+- 🏗️ Project Management & Agile Fundamentals – Santander  
 
 ---
 
-### 🌍 Idiomas
+### 🌍 Languages
 
-- Español: Nativo  
-- Inglés: Intermedio (B1)  
+- Spanish: Native  
+- English: Intermediate (B1)
+
+---
+
+### ✨ Favorite Quote
+
+> “Turn data into knowledge, and knowledge into action.”
 
 ---
 
-### ✨ Frase que me inspira:
-
-> "Convierte los datos en conocimiento, y el conocimiento en acción."
-
----
 
